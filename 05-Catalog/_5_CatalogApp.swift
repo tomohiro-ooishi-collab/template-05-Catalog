@@ -1,6 +1,6 @@
 //
-//  _1_MyfirstAPPApp.swift
-//  01-MyfirstAPP
+//  _5_CatalogApp.swift
+//  05-Catalog
 //
 //  Created by 大石智広 on 2026/03/18.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct _1_MyfirstAPPApp: App {
+struct _5_CatalogApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
